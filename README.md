@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/voe9bJ93OgfOOwqzb9/giphy.gif?cid=ecf05e47ww7qrbeh4k5hu5tjmw0h5yfkqzfl048vng6ad8os&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media1.giphy.com/media/voe9bJ93OgfOOwqzb9/giphy.gif?cid=ecf05e47ww7qrbeh4k5hu5tjmw0h5yfkqzfl048vng6ad8os&rid=giphy.gif&ct=s" width="250"/>
   <div>
     <h1 align="center">:wave:Welcome to my page!</h1>
   </div>
@@ -25,10 +25,10 @@ My name is Dmytro Shandra and I am a passion driven Software Developer
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL"  alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" **alt="Git" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" **alt="Heroku" />
-  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" title="JSON TWT" **alt="Json twt"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" **alt="C"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" **alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" **alt="Heroku" />&nbsp;
+  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" title="JSON TWT" **alt="Json twt"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" **alt="C"/>
 </div>
 
 ### :mailbox:Contact me: 
