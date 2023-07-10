@@ -32,8 +32,9 @@ My name is Dmytro Shandra and I am a passion driven Software Developer
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" **alt="C"/>&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" **alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="ExpressJS" **alt="ExpressJS"/>&nbsp;
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" **alt="Figma"/>&nbsp;
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" **alt="Flask"/>&nbsp;
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" title="Electron" **alt="Electron"/>&nbsp;
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" **alt="Figma"/>&nbsp;
 </div>
 
 ### :mailbox:Contact me: 
