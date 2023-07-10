@@ -24,12 +24,16 @@ My name is Dmytro Shandra and I am a passion driven Software Developer
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL"  alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" **alt="MongoDB"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" **alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" **alt="Heroku" />&nbsp;
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" title="JSON TWT" **alt="Json twt"/>&nbsp;
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" **alt="C"/>&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" **alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="ExpressJS" **alt="ExpressJS"/>&nbsp;
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" **alt="Figma"/>&nbsp;
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" **alt="Flask"/>&nbsp;
 </div>
 
 ### :mailbox:Contact me: 
