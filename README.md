@@ -8,10 +8,12 @@
   </div>
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 My name is Dmytro Shandra and I am a passion driven Software Developer
 
 - :telescope: I’m studying Computer Science at FH Campus Wien.
+
+- :man_technologist: Portfolio: https://d3vote.github.io/
 
 - :zap: Technologies: 
 <div>
